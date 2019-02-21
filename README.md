@@ -1,8 +1,8 @@
 ---
-description: 关于EasyCAE云桌面的问题集锦
+description: 关于
 ---
 
-# EasyCAE云桌面QA
+# EasyCAE云桌面
 
 ## 如何上传文件?
 
