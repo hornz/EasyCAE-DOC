@@ -21,7 +21,7 @@
 
 ## 云主机
 
-* [从本地上传文件](file-manager/untitled.md)
-* [从云桌面下载文件](file-manager/cong-yun-zhuo-mian-xia-zai-wen-jian.md)
-* [大文件处理](file-manager/da-wen-jian-chu-li.md)
+* [从本地上传文件](cloud-host/untitled.md)
+* [从云桌面下载文件](cloud-host/cong-yun-zhuo-mian-xia-zai-wen-jian.md)
+* [大文件处理](cloud-host/da-wen-jian-chu-li.md)
 
