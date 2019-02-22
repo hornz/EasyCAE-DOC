@@ -27,7 +27,8 @@ description: EasyCAE目前提供三大产品线：直接求解平台；云桌面
         <p>提供远程虚拟云桌面，可以是windows、</p>
         <p>centos或者ubuntu。</p>
         <p>桌面上可自由安装自己需要的仿真软件；</p>
-        <p></p>
+        <p>Ansys通过workbench提交到远程</p>
+        <p>队列可以对接超算并行资源。</p>
       </td>
       <td style="text-align:left">
         <p>ANSYS系列</p>
@@ -72,8 +73,6 @@ description: EasyCAE目前提供三大产品线：直接求解平台；云桌面
       <td style="text-align:left">
         <p>openfoam命令行模式</p>
         <p>通过命令行ssh登录，scp上传下载文件</p>
-        <p>可以设置12-128核并行计算</p>
-        <p>其他求解器待添加</p>
       </td>
       <td style="text-align:left">openfoam</td>
     </tr>
