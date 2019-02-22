@@ -1,17 +1,18 @@
 # Table of contents
 
 * [EasyCAE产品文档](README.md)
+* [联系方式](contact.md)
 
 ## 云桌面
 
 * [用户管理](cloud-desktop/user-manager/README.md)
-  * [用户注册](cloud-desktop/user-manager/yong-hu-zhu-ce.md)
-  * [用户登录](cloud-desktop/user-manager/yong-hu-deng-lu.md)
+  * [用户注册](cloud-desktop/user-manager/user-register.md)
+  * [用户登录](cloud-desktop/user-manager/user-login.md)
   * [断开和注销](cloud-desktop/user-manager/user-logoff.md)
 * [文件处理](cloud-desktop/wen-jian-chu-li/README.md)
   * [大文件处理](cloud-desktop/wen-jian-chu-li/da-wen-jian-chu-li.md)
   * [下载文件](cloud-desktop/wen-jian-chu-li/xia-zai-wen-jian.md)
-  * [上传文件](cloud-desktop/wen-jian-chu-li/shang-chuan-wen-jian.md)
+  * [上传文件](cloud-desktop/wen-jian-chu-li/upload.md)
 * [FAQ](cloud-desktop/faq.md)
 
 ## 直接求解
