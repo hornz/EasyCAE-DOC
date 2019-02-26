@@ -1,12 +1,11 @@
 # FAQ
 
-## Can I become who I want to be?
+## Abaqus求解进度没有更新
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+查看一下日志，可能后台集群求解没有问题，只是更新进度有问题。重新打开abaqus就可以。
 
-## Have you had a chance to answer the previous question?
+## 利用fluent计算时，case、data能保存，为啥动画没有保存？
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
+动画保存不了，超算没有图形界面，云图和动画都无法保存。只能通过后处理软件处理计算结果数据得到。
 
 
