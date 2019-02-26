@@ -13,7 +13,9 @@
   * [大文件处理](yun-zhuo-mian/file-process/large-file.md)
   * [下载文件](yun-zhuo-mian/file-process/download.md)
   * [上传文件](yun-zhuo-mian/file-process/upload.md)
-* [FAQ](yun-zhuo-mian/faq.md)
+* [FAQ](yun-zhuo-mian/faq/README.md)
+  * [Fluent](yun-zhuo-mian/faq/fluent.md)
+  * [Abaqus](yun-zhuo-mian/faq/abaqus.md)
 
 ## 直接求解
 
