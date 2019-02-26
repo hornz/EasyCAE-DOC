@@ -9,10 +9,10 @@
   * [用户注册](yun-zhuo-mian/user-manager/user-register.md)
   * [用户登录](yun-zhuo-mian/user-manager/user-login.md)
   * [断开和注销](yun-zhuo-mian/user-manager/user-logoff.md)
-* [文件处理](yun-zhuo-mian/wen-jian-chu-li/README.md)
-  * [大文件处理](yun-zhuo-mian/wen-jian-chu-li/large-file.md)
-  * [下载文件](yun-zhuo-mian/wen-jian-chu-li/download.md)
-  * [上传文件](yun-zhuo-mian/wen-jian-chu-li/upload.md)
+* [文件处理](yun-zhuo-mian/file-process/README.md)
+  * [大文件处理](yun-zhuo-mian/file-process/large-file.md)
+  * [下载文件](yun-zhuo-mian/file-process/download.md)
+  * [上传文件](yun-zhuo-mian/file-process/upload.md)
 * [FAQ](yun-zhuo-mian/faq.md)
 
 ## 直接求解
