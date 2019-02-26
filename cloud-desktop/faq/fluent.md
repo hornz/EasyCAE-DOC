@@ -1,12 +1,18 @@
 # Fluent
 
-## Can I become who I want to be?
+## 我能不能提交本地进行计算求解?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+分情况，独享云桌面的客户可以提交本地进行计算，因为这台机器是客户独享的。
 
-## Have you had a chance to answer the previous question?
+{% hint style="info" %}
+关于如何申请独享云桌面请联系客服，一般是金牌会员才享有独享云桌面。
+{% endhint %}
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+#### _非独享云桌面客户，例如体验卡用户不能提交本地进行计算，切记切记！_
+
+## 如何提交超算进行并行计算?
+
+{% file src="../../.gitbook/assets/easycae-yun-fang-zhen-yuan-cheng-zhuo-mian-bing-hang-qiu-jie-ren-wu-ti-jiao-fang-fa-zhi-dao.pdf" caption="Fluent通过workbench提交作业指导" %}
 
 
 
