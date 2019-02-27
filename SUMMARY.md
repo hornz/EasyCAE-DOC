@@ -16,6 +16,7 @@
 * [FAQ](cloud-desktop/faq/README.md)
   * [Fluent](cloud-desktop/faq/fluent.md)
   * [Abaqus](cloud-desktop/faq/abaqus.md)
+  * [STAR-CCM+](cloud-desktop/faq/star-ccm+.md)
 
 ## 直接求解
 
