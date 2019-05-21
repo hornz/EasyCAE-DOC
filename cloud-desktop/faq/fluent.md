@@ -16,3 +16,7 @@
 
 {% file src="../../.gitbook/assets/fluent-ren-wu-ti-jiao.mp4" caption="Fluent任务提交演示" %}
 
+```text
+<iframe src="//player.bilibili.com/player.html?aid=52632403&cid=92108769&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+```
+
