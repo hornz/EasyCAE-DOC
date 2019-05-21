@@ -14,5 +14,5 @@
 
 {% file src="../../.gitbook/assets/easycae-yun-fang-zhen-yuan-cheng-zhuo-mian-bing-hang-qiu-jie-ren-wu-ti-jiao-fang-fa-zhi-dao.pdf" caption="Fluent通过workbench提交作业指导" %}
 
-
+{% file src="../../.gitbook/assets/fluent-ren-wu-ti-jiao.mp4" caption="Fluent任务提交演示" %}
 
